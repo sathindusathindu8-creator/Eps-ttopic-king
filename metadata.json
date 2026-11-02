@@ -1,0 +1,6 @@
+{
+  "name": "EPS TOPIK Sinhala",
+  "description": "EPS-TOPIK Book 1 & 2 lessons, vocabulary, dialogues with audio, grammar, and model exam papers in Sinhala.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
